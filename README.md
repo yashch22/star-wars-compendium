@@ -4,6 +4,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo Run (Setup + App walkthrough)
+
+
+
+https://github.com/yashch22/star-wars-compendium/assets/59841595/fa75b34b-9df4-47f0-a09a-06cf4efb3646
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
