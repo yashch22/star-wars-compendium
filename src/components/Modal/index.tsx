@@ -17,6 +17,8 @@ import PublicIcon from "@mui/icons-material/Public";
 import LandscapeIcon from "@mui/icons-material/Landscape";
 import AcUnitIcon from "@mui/icons-material/AcUnit";
 import PeopleAltIcon from "@mui/icons-material/PeopleAlt";
+import ConfirmationNumberIcon from "@mui/icons-material/ConfirmationNumber";
+
 import dayjs from "dayjs";
 
 const CharacterModal: React.FC<ModalProps> = ({
@@ -180,6 +182,15 @@ const CharacterModal: React.FC<ModalProps> = ({
                                         Birth Year: {characterInfo.birth_year}
                                     </Typography>
                                 </Box>
+                                <Box mb={2}>
+                                    <Typography variant="h6" sx={{ color: "#FF5733" }}>
+                                        <ConfirmationNumberIcon sx={{ mr: 1, fontSize: 20, color: "#FF5733" }} />{" "}
+                                        Number of Films: {characterInfo.films.length}
+                                    </Typography>
+                                </Box>
+
+
+                            
                             </Box>
 
                             {planetData && (
