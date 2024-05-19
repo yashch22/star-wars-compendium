@@ -1,32 +1,20 @@
 # star-wars-compendium
 
+# Getting Started with Create React App
 
-To get started with the project, follow these steps:
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-1. Clone the repository:
-   ```
-   git clone https://github.com/yashch22/star-wars-compendium.git
-   ```
-
-
-2. Install Dependencies from package.json
-   ``` 
-   npm install
-
-   ```
-4. Start the app :
-   ``` 
-   npm start 
-   ```
+## Demo Run (Setup + App walkthrough)
 
 
 
+https://github.com/yashch22/star-wars-compendium/assets/59841595/fa75b34b-9df4-47f0-a09a-06cf4efb3646
 
 
-## Other Available Scripts
+
+## Available Scripts
 
 In the project directory, you can run:
-
 
 ### `npm start`
 
