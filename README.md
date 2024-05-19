@@ -11,6 +11,25 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 https://github.com/yashch22/star-wars-compendium/assets/59841595/fa75b34b-9df4-47f0-a09a-06cf4efb3646
 
 
+## SETUP
+
+To get started with the project, follow these steps:
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/yashch22/star-wars-compendium.git
+   cd star-wars-compendium
+   ```
+
+
+2. Install Dependencies from package.json
+   ``` 
+   npm install
+   ```
+4. Start the app :
+   ``` 
+   npm start 
+   ```
 
 ## Available Scripts
 
